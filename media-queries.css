@@ -1,0 +1,23 @@
+@media only screen and (max-width: 992px) {
+    .header {
+        padding: 0px 15px;
+        width: 1450px;
+    }
+    .inner-info {
+        padding: 0px 450px;
+        
+}
+}
+
+@media only screen and (max-width: 480px) {
+    .inner-info {
+            padding: 0px 450px;
+            
+    }
+
+    .subtitle-header {
+        font-size: 200px;
+        color: red;
+    }
+  
+
